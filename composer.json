@@ -1,12 +1,14 @@
 {
-    "name": "digitalsite/comunidad",
+    "name": "digitalsitesaas/comunidad",
+    "description": "Módulo comunidad",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sitedigital",
-            "email": "info@sitedigital.com.co"
+            "name": "SiteDigital",
+            "email": "admin@sitedigital.com.co"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
