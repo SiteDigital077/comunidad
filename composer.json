@@ -1,0 +1,12 @@
+{
+    "name": "digitalsite/comunidad",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sitedigital",
+            "email": "info@sitedigital.com.co"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
